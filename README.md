@@ -9,5 +9,3 @@ GITHUB EDIT
 Another github edit
 
 3rd time github edit
-
-edit from update-readme local branch
